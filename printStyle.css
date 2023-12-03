@@ -1,0 +1,24 @@
+@media print {
+    header, nav, footer, aside {
+      display: none;
+    }
+  
+    body{
+        color: black;
+    }
+
+    img {
+      max-width: 40%;
+      height: auto;
+    }
+  
+    video {
+      display: none;
+    }
+  
+  
+    body, h1, h2, h3, h4, h5, h6, p {
+      margin: 0;
+      padding: 0;
+    }
+  }

@@ -1,0 +1,244 @@
+.haddress{
+    background-color: grey;
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.div1{
+    color: black;
+    font-family: bold;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-size: 7vw;
+    text-align: center;
+    background-image: url("header2.png");
+    background-size: cover;
+}   
+
+.containerwhite{
+    background-color: white;
+}
+
+.sec11{
+    padding-top: 5%;
+    text-align: center;
+    font-size: 3vw;
+    display: block;
+    font-weight: bold;
+}
+
+.webshop{
+    max-width: 40%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.sec2{
+    padding-top: 5%;
+}
+
+.buttondiv{
+    padding-bottom: 5%;
+}
+
+.section2{
+    background-color: #659d32;
+}
+
+.container{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.map{
+    max-width: 70%;
+}
+
+th {
+    font-size: 2.5vw;
+}
+td {
+    font-size: 2.5vw;
+}
+
+.uzletunk{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    color:#659d32;
+    font-size:4vw
+}
+
+.boltkepek{
+    max-width: 80%;
+    padding-bottom: 10%;
+}
+
+.sectionend{
+    margin: auto;
+    font-size: large;
+    background-color: #659d32;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-weight:bold;
+}
+
+.end{
+    background-color: grey;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.sec2photo{
+    padding-top: 2%;
+}
+.boltkepek2{
+    max-width: 90%;
+    padding-bottom: 10%;
+}
+
+.sec2bemutat{
+    background-color: #659d32;
+    font-size: larger; 
+    text-align:left; 
+    font-weight:bold
+}
+
+.videoclass {
+    padding-top: 8%;
+    padding-bottom: 8%;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  
+  .video-wrapper video {
+    width: 100%;
+    height: auto;
+  }
+  
+  .sec3{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    font-size: 3vw;
+    background-color: #659d32;
+  }
+
+  .brand{
+    max-width: 70%;
+    padding-bottom: 20%;
+
+  }
+
+  .sec31{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: 2vw;
+    text-align: center;
+    font-weight: bold;
+    background-color: #659d32;
+  }
+
+  .blanksection{
+    background-color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }
+
+  .kerdoiv{
+    background-color: #659d32;
+    text-align: center;
+    font-size: 4vw;
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }
+
+  .formpic{
+    max-width: 70%;
+    padding-top: 3%;
+  }
+
+  .links{
+    text-align: center;
+    font-size: 1vw;
+    background-color: #659d32;
+  }
+
+  .linkek:link {
+    color: black;
+    font-size: 200%;
+  }
+  
+  .linkek:visited {
+    color: blue;
+  }
+  
+  .linkek:hover {
+    color: white;
+  }
+
+  .logokep{
+    max-width: 50%; 
+    padding-bottom:10%;
+  }
+
+  .leiras{
+    text-align: left;
+    font-family: sans-serif;
+  }
+
+  .forms{
+    font-family: sans-serif;
+  }
+
+  .videoleiras:link {
+    color: black;
+  }
+  
+  .videoleiras:visited {
+    color: blue;
+  }
+  
+  .videoleiras:hover {
+    color: #659d32;
+  }
+
+.kisegitoNav{
+    position: absolute;
+    top: -8888px;
+
+}
+.kisegitoNav:focus-within{
+    position: static;
+}
+
+details{
+    font-size: large;
+    color: black;
+}
+
+
+/* Bootstrap alapértelmezett változtatások */
+
+.btn{
+    background-color: #659d32 !important;
+    border-color: black !important;
+    display: block !important;
+    margin: 0 auto !important;
+    font-size: large !important;
+    color: black !important;
+}
+
+.table{
+    margin: 0 auto !important;
+}
+
+
